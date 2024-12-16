@@ -1,7 +1,7 @@
 {
-    "name": "php-array-symbols",
-    "displayName": "Php Array Symbol Provider",
-    "description": "Php Array Symbol Provider",
+    "name": "vscode-php-array-symbols",
+    "displayName": "Php Array Symbol Provider for VS Code",
+    "description": "Php Array Symbol Provider for VS Code",
     "version": "1.0.0",
     "publisher": "MrChetan",
     "repository": "https://github.com/mrchetan/vscode-php-array-symbol-provider",

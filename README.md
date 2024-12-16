@@ -1,4 +1,4 @@
-# Php Array Symbol Provider
+# Php Array Symbol Provider for VS Code
 
 a symbol provider support for php arrays, similar to json files ex.
 
